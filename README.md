@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Full-Stack Software Engineer with a strong passion for debugging,UI, and clean code.  Looking for a way to grow and improve; always ready and willing to learn new things.  Interested in problem solving and developing human connection through technology, hoping to change the world one line of code at a time.
+Full-Stack Software Engineer with a strong passion for debugging,UI, and clean code.  Looking for a way to grow and improve; always ready and willing to learn new things. Highly organized and personable with experience providing exceptional customer service.  Interested in problem solving and developing human connection through technology, hoping to change the world one line of code at a time.
 
 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/franciscoandaur/), [Email](mailto:fraciscv@protonmail.ch)

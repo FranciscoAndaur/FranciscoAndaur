@@ -7,6 +7,8 @@ Full-Stack Software Engineer with a strong passion for debugging,UI, and clean c
 - 😄 Pronouns: he/him
 <!--
 **FranciscoAndaur/FranciscoAndaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center><span align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FranciscoAndaur&show_icons=true&icon_color=686d76&title_color=212121&hide_border=true" alt="FranciscoAndaur" /></span>
+<span align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoAndaur&langs_count=3&title_color=212121&hide_border=true" alt="FranciscoAndaur" /></span></p>
 
 Here are some ideas to get you started:
 
@@ -19,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
